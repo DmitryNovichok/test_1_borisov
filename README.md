@@ -1,1 +1,1 @@
-# test_1_borisov
+# gpt_art_proj
